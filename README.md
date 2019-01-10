@@ -25,7 +25,7 @@ A demo is available for facial keypoint detection from live cameera.
 
 You should run:
 ```
-	python live_camera.py
+python live_camera.py
 ```
 
 
@@ -74,7 +74,7 @@ pip install -r requirements.txt
 
 All of the data you'll need to train a neural network is in the P1_Facial_Keypoints repo, in the subdirectory `data`. In this folder are training and tests set of image/keypoint data, and their respective csv files. This will be further explored in Notebook 1: Loading and Visualizing Data, and you're encouraged to look trough these folders on your own, too.
 
-#Pre-trained models
+### Pre-trained models
 
 In the folder `./saved_models` there is a pre trained model named `keypoints_model_0947.pt`
 
