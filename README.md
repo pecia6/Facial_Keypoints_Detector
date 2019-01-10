@@ -10,7 +10,7 @@ This project was developed during the Computer Vision Udacity Nanodegree Program
 
 ![Facial Keypoint Detection][image1]
 
-The project will be broken up into a few main parts in four Python notebooks.
+The project will be broken up into a few main parts in three Python notebooks.
 
 __Notebook 1__ : Loading and Visualizing the Facial Keypoint Data
 
